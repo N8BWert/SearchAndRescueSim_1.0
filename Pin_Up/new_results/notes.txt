@@ -1,0 +1,21 @@
+SIM_1 -> nfABDW
+-> 10 minute alerts = WmKAvG
+-> 60 minutes alerts = HpHrSB
+-> 2 hr alerts = WpREan
+-> 6 hr alerts = pcwypf
+-> fully informed agent = LPdzNX
+
+SIM_2 -> VvRBLg
+-> 10 minute alerts = XQFgld
+-> 60 minute alerts = FNFWMh
+-> 2 hr alerts = DwFTJY
+-> 6 hr alerts = QrifLN
+-> fully informed agent = OyTLcJ
+
+### Testing real(ish) s&r data
+SIM_3 -> ijqlGf
+-> 10 minute alerts = AIxwAt
+-> 60 minute alerts = TxPbpo
+-> 2 hr alerts = bKQUyW
+-> 6 hr alerts = NuQcHY
+-> fully informed agent = nuRfQv

@@ -1,0 +1,277 @@
+name
+20321 N La Highway 82, Abbeville, 7051
+210 W Vermilion St, Abbeville, 7051
+1000 Bolton Ave, Alexandria, 7130
+1200 David Dr, Morgan City, 7038
+210 NE Central Ave, Amite, 7042
+325 E Caldwell St, Gonzales, 7073
+500 S Jamie Blvd, Westwego, 7009
+1316 S Ryan St, Basile, 7051
+717 N Marable St, Bastrop, 7122
+211 E Jefferson Ave, Bastrop, 7122
+8011 Merle Gustafson Dr, Baton Rouge, 7080
+2820 Savanne Rd, Houma, 7036
+1870 Bayou Blue Rd, Houma, 7036
+Church St, Maringouin, 7075
+3457 Highway 307, Thibodaux, 7030
+6166 W Main St, Houma, 7036
+1038 Falgout Canal Rd, Theriot, 7039
+1st St, Des Allemands, 7003
+333 Highway 663, Morgan City, 7038
+13491 Hwy 389, De Quincy, 7063
+13491 Hwy 389, Dequincy, 7063
+354 Three Pine Church Rd, De Ridder, 7063
+1638 Belaire Cove Rd, Ville Platte, 7058
+1207 Highway 70 S #A, Belle Rose, 7034
+3225 3rd St, Berwick, 7034
+200 Arkansas Ave, Bogalusa, 7042
+15446 Bonita Ave, Bonita, 7122
+5850 Shed Rd, Bossier City, 7111
+4402 Highway 24, Bourg, 7034
+67 Saint Anthony St, Luling, 7007
+173 Dr Parrot Ave, Rayne, 7057
+225 N Main St, Breaux Bridge, 7051
+2220 Bridge City Ave, Bridge City, 7009
+620 Mayeaux Dr, De Ridder, 7063
+416 E Railroad St, Broussard, 7051
+103 Walnut St, Bunkie, 7132
+29439 Highway 40, Bush, 7043
+8240 Colquitt Rd, Keithville, 7104
+1630 Smede Hwy, Cade, 7051
+218 Edenborne St, Campti, 7141
+107 Dandurand Rd, Cankton, 7058
+214 E Saint Peter St, Carencro, 7052
+Catahoula Lake Levee Rd, St Martinville, 7058
+100 Highway 304, Thibodaux, 7030
+215 Choushatta Dr, Charenton, 7052
+231 Martin Luther King St, Chataignier, 7052
+4444 Main St, Collinston, 7122
+1317 Occupy Church Rd 2, Elizabeth, 7063
+413 Airport Rd, Vidalia, 7137
+1860 Coteau Holmes Hwy, St Martinville, 7058
+4715 Highway 88, New Iberia, 7056
+307 Choupique Ln, Cottonport, 7132
+525 N Jefferson Ave, Covington, 7043
+104 W Hutchinson Ave, Crowley, 7052
+17462 W Main St, Cut Off, 7034
+300 N Holly St, De Quincy, 7063
+300 N Holly St, Dequincy, 7063
+302 N Railroad St, Delcambre, 7052
+1106 Hatchell Ln, Denham Springs, 7072
+107 Dejean St, Des Allemands, 7003
+18838 W La Highway 82, Abbeville, 7051
+7878 Prescott Rd, Baton Rouge, 7081
+700 Lafourche St, Donaldsonville, 7034
+1801 Highway 20, Schriever, 7039
+1st St, Duson, 7052
+1901 Ormond Blvd, Destrehan, 7004
+Highway 774, Trout, 7137
+42382 Highway 445, Ponchatoula, 7045
+230 Poplar St, Elizabeth, 7063
+351 Douglas St, Estherwood, 7053
+100 Park Ave, Eunice, 7053
+2923 Faubourg Rd, Ville Platte, 7058
+112 Tennessee Ave, Ferriday, 7133
+4697 Highway 109, De Quincy, 7063
+4697 Highway 109, Dequincy, 7063
+200 Arkansas Ave, Bogalusa, 7042
+1307 Victor Ii Blvd, Morgan City, 7038
+2815 Foreman Rd, Vinton, 7066
+1306 Main St, Elton, 7053
+PO Box 26, Jena, 7134
+1357 S Union St, Opelousas, 7057
+62438 Commercial St, Roseland, 7045
+1007 S Spruce St, Vivian, 7108
+115 Northpark Blvd, Covington, 7043
+110 S Main St, Springhill, 7107
+225 Prairie Ave, New Iberia, 7056
+Highway 165, Olla, 7146
+2100 Louisiana Ave Bldg 1736, Fort Polk, 7145
+803 Pearl St, Franklinton, 7043
+41280 Highway 10, Franklinton, 7043
+15160 La Highway 16, French Settlemnt, 7073
+16573 Highway 931, Prairieville, 7076
+418 Historic West St, Garyville, 7005
+12171 Highway 73, Geismar, 7073
+116 Moss St, Gibson, 7035
+116 Moss St, Gibson, 7035
+17462 W Main St, Galliano, 7035
+325 E Caldwell St, Gonzales, 7073
+13027 Highway 190, Covington, 7043
+4336 Edgerly Rd, De Quincy, 7063
+4336 Edgerly Rd, Dequincy, 7063
+700 Gretna Blvd, Gretna, 7005
+407 River Rd, Gramercy, 7005
+4717 Grand Caillou Rd, Houma, 7036
+6974 Grand Caillou Rd, Dulac, 7035
+4011 Grand Chenier Hwy, Grand Chenier, 7064
+442 E Martin Luther King Dr, Sunset, 7058
+Highway 37, Greensburg, 7044
+13775 Highway 37, Greensburg, 7044
+501 Anson St, Gretna, 7005
+414 Main St, Gueydan, 7054
+405 S Oak St, Hammond, 7040
+2975 E Thomas St, Hammond, 7040
+1008 Nina Hwy, Henderson, 7051
+3313 Highway 1045, Amite, 7042
+168 Powell Rd, Hornbeck, 7143
+600 Wood St, Houma, 7036
+56292 Highway 445, Husser, 7044
+2309 Avery Island Rd, New Iberia, 7056
+113 Calhoun St, Independence, 7044
+100 Calhoum St, Independence, 7044
+4723 La Highway 700, Kaplan, 7054
+8874 La Highway 418, Innis, 7074
+210 S 1st St, Iota, 7054
+116 Duson Ave, Iota, 7054
+16038 3 Highway 157, Plain Dealing, 7106
+PO Box 5128, Jamestown, 7104
+1437 Main St, Jeanerette, 7054
+1436 Church St, Jeanerette, 7054
+5396 Pine Island Hwy, Jennings, 7054
+Highway 84, Jena, 7134
+501 N Cushing Ave, Kaplan, 7054
+808 2nd Ave, Kinder, 7064
+521 Hemlock St, LaPlace, 7006
+2709 Highway 1, Labadieville, 7037
+60267 S 8th St, Lacombe, 7044
+300 E Vermilion St, Lafayette, 7050
+142 Park Ave, Lafayette, 7050
+1307 Bertrand Dr, Lafayette, 7050
+Highway 45 #493, Lafitte, 7006
+691 Highway 308, Thibodaux, 7030
+102 Saint Philip St, Raceland, 7039
+N Leon Dr, Lockport, 7037
+Lake Cove Community NW, Turkey Creek, 7058
+17462 W Main St, Cut Off, 7034
+17462 W Main St, Galliano, 7035
+Airport Rd, Opelousas, 7057
+6443 Highway 3059, Lake Charles, 7061
+79029 Highway 437, Covington, 7043
+101 W Lee St, Leesville, 7144
+5801 Highway 13, Crowley, 7052
+3726 Highway 31, Leonville, 7055
+4588 Highway 56, Chauvin, 7034
+13007 La Highway 3093, Kaplan, 7054
+29778 S Montpelier Rd, Albany, 7071
+3496 La Highway 78, Livonia, 7075
+806 Crescent Ave, Lockport, 7037
+20032 Firehouse Rd, Loranger, 7044
+119 Bridge, Loreauville, 7055
+460 Lowry Hwy, Lake Arthur, 7054
+67 Saint Anthony St, Luling, 7007
+7209 Weeks Island Rd, New Iberia, 7056
+2014 S La Hwy 13, Crowley, 7052
+402 Cedar St, Madisonville, 7044
+121 Main St, Mamou, 7055
+3101 E Causeway Approach, Mandeville, 7044
+1832 Leglise St, Mansura, 7135
+10660 2nd St, Maringouin, 7075
+398 Main St, Marion, 7126
+118 Marlow Rd, Pitkin, 7065
+531 Avenue C, Marrero, 7007
+24564 Highway 22, Maurepas, 7044
+510 Chief H Fred Ave, Maurice, 7055
+9124 Romules Rd, Abbeville, 7051
+5248 Mire Hwy, Duson, 7052
+1105 Highway 55, Montegut, 7037
+632 Highway 665, Montegut, 7037
+1105 Highway 55, Montegut, 7037
+328 Main St, Moreauville, 7135
+1307 Victor Ii Blvd, Morgan City, 7038
+1307 Victor Ii Blvd, Morgan City, 7038
+401 City Park Ave, New Orleans, 7011
+15146 Fire Station Rd, Natalbany, 7045
+225 Prairie Ave, New Iberia, 7056
+1700 Moss St, New Orleans, 7011
+317 Decatur St, New Orleans, 7013
+701 Rosedale Dr, New Orleans, 7012
+13400 Old Gentilly Rd, New Orleans, 7012
+1024 Oak Ave, Bridge City, 7009
+River Rd, LaPlace, 7006
+1523 Oak Grove Hwy, Creole, 7063
+589 Stanford Rd, Oak Grove, 7126
+PO Box 593, Glenmora, 7143
+52 Oak Park Dr, Madisonville, 7044
+115 N 10th St, Oakdale, 7146
+US Highway 165, Olla, 7146
+1357 S Union St, Opelousas, 7057
+6074 Highway 1, Paincourtville, 7039
+Bridge, St Martinville, 7058
+1306 Main St, Patterson, 7039
+1308 Main St, Patterson, 7039
+37546 Pine Street Ext, Pearl River, 7045
+25600 W La Highway 82, Kaplan, 7054
+101 S Bay Rd, Pierre Part, 7033
+Edwin Elliott Dr, Pine Prairie, 7057
+Highway 13, Pine Prairie, 7057
+354 Three Pine Church Rd, De Ridder, 7063
+35 Purser St, Pineville, 7136
+35 Purser St, Pineville, 7136
+12778 Highway 10, Pitkin, 7065
+205 W Palmetto Ave, Plain Dealing, 7106
+172 Highway 112, Elizabeth, 7063
+10941 Highway 112, Elizabeth, 7063
+10016 Highway 112, Glenmora, 7143
+58165 Meriam St, Plaquemine, 7076
+1105 Highway 55, Montegut, 7037
+8874 La Highway 418, Innis, 7074
+201 NW Railroad Ave, Ponchatoula, 7045
+514 Saizan St, Port Barre, 7057
+123 Civic Dr, Port Sulphur, 7008
+123 Civic Dr, Port Sulphur, 7008
+7209 Highway 93, Sunset, 7058
+17183 Highway 929, Prairieville, 7076
+75174 Highway 1083, Covington, 7043
+101 3rd St, Rayne, 7057
+105 Firehouse Ln, Reserve, 7008
+201 W South St, Welsh, 7059
+11291 Highway 143, Farmerville, 7124
+Highway 77, Rosedale, 7077
+5105 Avery Island Rd, New Iberia, 7056
+1529 W Park Ave, Schriever, 7039
+13398 Roddy Rd, Gonzales, 7073
+801 Crockett St, Shreveport, 7110
+801 Crockett St, Shreveport, 7110
+117 SE 4th Ave, Sibley, 7107
+388 Mission Dr, Simmesport, 7136
+9080 Highway 27, Singer, 7066
+8096 Main St, Sorrento, 7077
+510 E Boston St, Covington, 7043
+2456 Highway 3121, Spearsville, 7127
+Highway 143, Spencer, 7128
+757 Highway 113, Glenmora, 7143
+PO Box 45, St Amant, 7077
+2072 Highway 1, Thibodaux, 7030
+173 E 3rd St, Edgard, 7004
+Tiger Dr, Thibodaux, 7030
+887 Highway 749, Opelousas, 7057
+230 Washington St, St Martinville, 7058
+28666 Highway 16, Sun, 7046
+872 Napoleon Ave, Sunset, 7058
+800 Parish Rd, Thibodaux, 7030
+354 Three Pine Church Rd, De Ridder, 7063
+125 Main St, Tullos, 7147
+10187 S Main St, Tullos, 7147
+1084 Cedar Ln, Ville Platte, 7058
+9793 La 44, Convent, 7072
+100 E Hardtner Dr, Urania, 7148
+2433 Highway 18, Vacherie, 7009
+N Leon Dr, Lockport, 7037
+Industrial Park & Indstrl Rd, Houma, 7036
+310 W Magnolia St, Ville Platte, 7058
+1201 Horridge St, Vinton, 7066
+Galley Rd, Hayes, 7064
+9890 Highway 34, Eros, 7123
+261 Highway 505, Jonesboro, 7125
+1084 Cedar Ln, Ville Platte, 7058
+Courthouse, Turkey Creek, 7058
+4444 Main St, Collinston, 7122
+30247 Highway 430, Franklinton, 7043
+43139 C E Stafford Rd, Franklinton, 7043
+201 W South St, Welsh, 7059
+677 Avenue H, Westwego, 7009
+677 Avenue H, Westwego, 7009
+22115 Highway 10, Kentwood, 7044
+4040 Highway 90 W, Avondale, 7009
+7163 Highway 39 #202, Braithwaite, 7004

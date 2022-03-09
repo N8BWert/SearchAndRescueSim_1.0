@@ -1,0 +1,277 @@
+name
+7th Ward Fire Dep,20321 N La Highway 82, Abbeville, 7051, LA
+Abbeville Fire Dep,210 W Vermilion St, Abbeville, 7051, LA
+Alexandria Fire Dep,1000 Bolton Ave, Alexandria, 7130, LA
+Alexandria Fire Prevention Bu,1000 Bolton Ave, Alexandria, 7130, LA
+Amelia Volunteer Fire Dep,1200 David Dr, Morgan City, 7038, LA
+Amite Fire Dep,210 NE Central Ave, Amite, 7042, LA
+Ascension Fire District No ,325 E Caldwell St, Gonzales, 7073, LA
+Avondale Volunteer Fire Dep,500 S Jamie Blvd, Westwego, 7009, LA
+Bastrop Fire Chie,717 N Marable St, Bastrop, 7122, LA
+Bastrop Fire Prevention Offic,211 E Jefferson Ave, Bastrop, 7122, LA
+Bayou Black Fire Dep,2820 Savanne Rd, Houma, 7036, LA
+Bayou Blue Volunteer Fire Dep,1870 Bayou Blue Rd, Houma, 7036, LA
+Bayou Boeuf Volunteer Fire C,3457 Highway 307, Thibodaux, 7030, LA
+Bayou Cane Fire Dep,6166 W Main St, Houma, 7036, LA
+Bayou Dularge Fire Dep,1038 Falgout Canal Rd, Theriot, 7039, LA
+Bayou Gauche Volunteer Fir,1st St, Des Allemands, 7003, LA
+Bayou Lourse Volunteer Fir,333 Highway 663, Morgan City, 7038, LA
+Beauregard Fire Protectio,13491 Hwy 389, De Quincy, 7063, LA
+Beauregard Fire Protectio,13491 Hwy 389, Dequincy, 7063, LA
+Beauregard Parish Fire Dis,354 Three Pine Church Rd, De Ridder, 7063, LA
+Bel-Aire Cove Fire Dep,1638 Belaire Cove Rd, Ville Platte, 7058, LA
+Berwick Town Fire Chief Of,3225 3rd St, Berwick, 7034, LA
+Bogalusa Fire Dep,200 Arkansas Ave, Bogalusa, 7042, LA
+Bonita Fire Departmen,15446 Bonita Ave, Bonita, 7122, LA
+Bossier City Fire Trainin,5850 Shed Rd, Bossier City, 7111, LA
+Bourg Volunteer Fire Dep,4402 Highway 24, Bourg, 7034, LA
+Boutte Luling Fire Dep,67 Saint Anthony St, Luling, 7007, LA
+Branch Volunteer Fire Dep,173 Dr Parrot Ave, Rayne, 7057, LA
+Breaux Bridge Fire Dep,225 N Main St, Breaux Bridge, 7051, LA
+Bridge City Volunteer Fire C,2220 Bridge City Ave, Bridge City, 7009, LA
+Broadlands Fire Dep,620 Mayeaux Dr, De Ridder, 7063, LA
+Broussard Fire Dep,416 E Railroad St, Broussard, 7051, LA
+Bunkie Fire Chie,103 Walnut St, Bunkie, 7132, LA
+Bush Volunteer Fire Dep,29439 Highway 40, Bush, 7043, LA
+Caddo Fire Distric,8240 Colquitt Rd, Keithville, 7104, LA
+Cade Volunteer Fire Dep,1630 Smede Hwy, Cade, 7051, LA
+Campti Fire Dep,218 Edenborne St, Campti, 7141, LA
+Cankton Village Fire Dep,107 Dandurand Rd, Cankton, 7058, LA
+Carencro City Fire Dep,214 E Saint Peter St, Carencro, 7052, LA
+Catahoula Lake Fire Dep,Catahoula Lake Levee Rd, St Martinville, 7058, LA
+Chackbay Volunteer Fire Dep,100 Highway 304, Thibodaux, 7030, LA
+Charenton-Chitimacha Voluntee,215 Choushatta Dr, Charenton, 7052, LA
+Chataignier Fire Dep,231 Martin Luther King St, Chataignier, 7052, LA
+Collinston Fire Departmen,4444 Main St, Collinston, 7122, LA
+Comm Volunteer Fire Dep,1317 Occupy Church Rd 2, Elizabeth, 7063, LA
+Concordia Fire Dist ,413 Airport Rd, Vidalia, 7137, LA
+Coteau Holmes Volunteer Fir,1860 Coteau Holmes Hwy, St Martinville, 7058, LA
+Coteau Volunteer Fire Dep,4715 Highway 88, New Iberia, 7056, LA
+Cottonport Fire Dep,307 Choupique Ln, Cottonport, 7132, LA
+Covington Fire Dep,525 N Jefferson Ave, Covington, 7043, LA
+Crowley City Fire Dep,104 W Hutchinson Ave, Crowley, 7052, LA
+Cut Off Volunteer Fire Dep,17462 W Main St, Cut Off, 7034, LA
+De Quincy Fire Dep,300 N Holly St, De Quincy, 7063, LA
+Delcambre Fire Dep,302 N Railroad St, Delcambre, 7052, LA
+Denham Springs Fire Dep,1106 Hatchell Ln, Denham Springs, 7072, LA
+Des Allemands Volunteer Fir,107 Dejean St, Des Allemands, 7003, LA
+District 13 Fire Dep,18838 W La Highway 82, Abbeville, 7051, LA
+District Six Fire Dep,7878 Prescott Rd, Baton Rouge, 7081, LA
+Donaldsonville Fire Dep,700 Lafourche St, Donaldsonville, 7034, LA
+Donner-Chacahoula Fire Dep,1801 Highway 20, Schriever, 7039, LA
+Duson Fire Dep,1st St, Duson, 7052, LA
+East St Charles Parish Fir,1901 Ormond Blvd, Destrehan, 7004, LA
+Eden-Fellowship Volunteer Fir,Highway 774, Trout, 7137, LA
+Eight Ward Volunteer Fire Dep,42382 Highway 445, Ponchatoula, 7045, LA
+Elizabeth Fire Dep,230 Poplar St, Elizabeth, 7063, LA
+Estherwood Fire Departmen,351 Douglas St, Estherwood, 7053, LA
+Eunice Fire Dep,100 Park Ave, Eunice, 7053, LA
+Faubourg Volunteer Fire Dep,2923 Faubourg Rd, Ville Platte, 7058, LA
+Ferriday Fire Dep,112 Tennessee Ave, Ferriday, 7133, LA
+Fields Fire Towe,4697 Highway 109, De Quincy, 7063, LA
+Fields Fire Towe,4697 Highway 109, Dequincy, 7063, LA
+Fire Chief's Offic,200 Arkansas Ave, Bogalusa, 7042, LA
+Fire Department Of Morgan Cit,1307 Victor Ii Blvd, Morgan City, 7038, LA
+Fire Department Ward ,2815 Foreman Rd, Vinton, 7066, LA
+Fire Department,1306 Main St, Elton, 7053, LA
+Fire department,PO Box 26, Jena, 7134, LA
+Fire Dep,1357 S Union St, Opelousas, 7057, LA
+Fire Dep,62438 Commercial St, Roseland, 7045, LA
+Fire District ,1007 S Spruce St, Vivian, 7108, LA
+Fire District No 1,115 Northpark Blvd, Covington, 7043, LA
+Fire Distric,110 S Main St, Springhill, 7107, LA
+Fire Inspectors Offic,225 Prairie Ave, New Iberia, 7056, LA
+Fire Olla Voluntee,Highway 165, Olla, 7146, LA
+Fort Polk Fire Dep,2100 LA Ave Bldg 1736, Fort Polk, 7145, LA
+Franklinton Fire Dep,803 Pearl St, Franklinton, 7043, LA
+Franklinton Volunteer Fir,41280 Highway 10, Franklinton, 7043, LA
+French Settlement Voluntee,15160 La Highway 16, French Settlemnt, 7073, LA
+Galvez Lake Fire Station ,16573 Highway 931, Prairieville, 7076, LA
+Garyville Fire Dep,418 Historic West St, Garyville, 7005, LA
+Geismar Fire Dep,12171 Highway 73, Geismar, 7073, LA
+Gibson East Fire Dep,116 Moss St, Gibson, 7035, LA
+Gibson Fire Dep,116 Moss St, Gibson, 7035, LA
+Golden Meadow Volunteer Fir,17462 W Main St, Cut Off, 7034, LA
+Golden Meadow Volunteer Fir,17462 W Main St, Galliano, 7035, LA
+Gonzales Fire Dep,325 E Caldwell St, Gonzales, 7073, LA
+Goodbee Fire Dep,13053 Highway 190, Covington, 7043, LA
+Goodbee Fire Distric,13027 Highway 190, Covington, 7043, LA
+Gordon Fire Towe,4336 Edgerly Rd, De Quincy, 7063, LA
+Gordon Fire Towe,4336 Edgerly Rd, Dequincy, 7063, LA
+Gould Volunteer Fire C,700 Gretna Blvd, Gretna, 7005, LA
+Gramercy Volunteer Fire Dep,407 River Rd, Gramercy, 7005, LA
+Grand Caillou Volunteer Fir,4717 Grand Caillou Rd, Houma, 7036, LA
+Grand Caillou Volunteer Fir,6974 Grand Caillou Rd, Dulac, 7035, LA
+Grand Chenier Fire Dep,4011 Grand Chenier Hwy, Grand Chenier, 7064, LA
+Grand Coteau Fire Dep,442 E Martin Luther King Dr, Sunset, 7058, LA
+Greensburg Fire Dep,Highway 37, Greensburg, 7044, LA
+Greensburg Volunteer Fire Dep,13775 Highway 37, Greensburg, 7044, LA
+Gretna City Fire Dep,501 Anson St, Gretna, 7005, LA
+Gueydan Fire Chief's Offic,414 Main St, Gueydan, 7054, LA
+Hammond Fire Dep,405 S Oak St, Hammond, 7040, LA
+Hammond Fire Prevention Burea,2975 E Thomas St, Hammond, 7040, LA
+Henderson Nina Fire Statio,1008 Nina Hwy, Henderson, 7051, LA
+Hillsdale Fire Dep,3313 Highway 1045, Amite, 7042, LA
+Hornbeck Fire Towe,168 Powell Rd, Hornbeck, 7143, LA
+Houma Fire Dep,600 Wood St, Houma, 7036, LA
+Husser Fire Dep,56292 Highway 445, Husser, 7044, LA
+Iberia Parish Fire Protectio,2309 Avery Island Rd, New Iberia, 7056, LA
+Independence Fire Dep,113 Calhoun St, Independence, 7044, LA
+Independence Fire Station ,100 Calhoum St, Independence, 7044, LA
+Indian Bayou Community Fir,4723 La Highway 700, Kaplan, 7054, LA
+Innis Fire Dep,8874 La Highway 418, Innis, 7074, LA
+Iota Fire Departmen,210 S 1st St, Iota, 7054, LA
+Iota Fire Dep,116 Duson Ave, Iota, 7054, LA
+Ivan Fire District ,16038 3 Highway 157, Plain Dealing, 7106, LA
+Jamestown Fire Dep,PO Box 5128, Jamestown, 7104, LA
+Jeanerette City Office,1437 Main St, Jeanerette, 7054, LA
+Jeanerette Fire Dep,1436 Church St, Jeanerette, 7054, LA
+Jeff Davis Fire Dep,5396 Pine Island Hwy, Jennings, 7054, LA
+Jena Fire Dep,Highway 84, Jena, 7134, LA
+Kaplan Fire Dep,501 N Cushing Ave, Kaplan, 7054, LA
+Kinder Fire Dep,808 2nd Ave, Kinder, 7064, LA
+La Place Volunteer Fire Dep,521 Hemlock St, LaPlace, 7006, LA
+Labadieville Volunteer Fir,2709 Highway 1, Labadieville, 7037, LA
+Lacombe Fire Dep,60267 S 8th St, Lacombe, 7044, LA
+Lafayette Fire Chie,300 E Vermilion St, Lafayette, 7050, LA
+Lafayette Fire Communication,300 E Vermilion St, Lafayette, 7050, LA
+Lafayette Fire Dep,300 E Vermilion St, Lafayette, 7050, LA
+Lafayette Fire Preventio,142 Park Ave, Lafayette, 7050, LA
+Lafayette Fire Training Ct,1307 Bertrand Dr, Lafayette, 7050, LA
+Lafitte-Barataria Vol Fir,Highway 45 #493, Lafitte, 7006, LA
+Lafourche Crossing 308 Fir,691 Highway 308, Thibodaux, 7030, LA
+Lafourche Fire District 1 Vol,102 Saint Philip St, Raceland, 7039, LA
+Lafourche Fire Distric,N Leon Dr, Lockport, 7037, LA
+Lake Cove Fire Dep,Lake Cove Community NW, Turkey Creek, 7058, LA
+Larose Volunteer Fire Dep,17462 W Main St, Cut Off, 7034, LA
+Larose Volunteer Fire Dep,17462 W Main St, Galliano, 7035, LA
+Lawtell Fire Dep,Airport Rd, Opelousas, 7057, LA
+Le Bleu Settlement Fire Dep,6443 Highway 3059, Lake Charles, 7061, LA
+Lee Road Volunteer Fire Dep,79029 Highway 437, Covington, 7043, LA
+Leesville City Fire Dep,101 W Lee St, Leesville, 7144, LA
+Leleux Fire Statio,5801 Highway 13, Crowley, 7052, LA
+Leonville Volunteer Fire Dep,3726 Highway 31, Leonville, 7055, LA
+Little Caillou Fire Dep,4588 Highway 56, Chauvin, 7034, LA
+Little Chapel Volunteer Fir,13007 La Highway 3093, Kaplan, 7054, LA
+Livingston Parish Fire Prtct,29778 S Montpelier Rd, Albany, 7071, LA
+Livonia Fire Dep,3496 La Highway 78, Livonia, 7075, LA
+Lockport Volunteer Fire Dep,806 Crescent Ave, Lockport, 7037, LA
+Loranger Volunteer Fire Dep,20032 Firehouse Rd, Loranger, 7044, LA
+Loreauville Volunteer Fir,119 Bridge, Loreauville, 7055, LA
+Lowery Fire Statio,460 Lowry Hwy, Lake Arthur, 7054, LA
+Luling Volunteer Fire Dep,67 Saint Anthony St, Luling, 7007, LA
+Lydia Volunteer Fire Dep,7209 Weeks Island Rd, New Iberia, 7056, LA
+Lyons Point Fire Departmen,2014 S La Hwy 13, Crowley, 7052, LA
+Madisonville Fire Dep,402 Cedar St, Madisonville, 7044, LA
+Mamou Fire Dep,121 Main St, Mamou, 7055, LA
+Mandeville Fire Dep,3101 E Causeway Approach, Mandeville, 7044, LA
+Mansura Fire Dep,1832 Leglise St, Mansura, 7135, LA
+Maringouin Fire Dep,10660 2nd St, Maringouin, 7075, LA
+Marion Fire Dep,398 Main St, Marion, 7126, LA
+Marlow Volunteer Fire Dep,118 Marlow Rd, Pitkin, 7065, LA
+Marrero-Harvey Volunteer Fir,531 Avenue C, Marrero, 7007, LA
+Maurepas Fire Dep,24564 Highway 22, Maurepas, 7044, LA
+Maurice Volunteer Fire Dep,510 Chief H Fred Ave, Maurice, 7055, LA
+Meaux Nunez Volunteer Fir,9124 Romules Rd, Abbeville, 7051, LA
+Mire Volunteer Fire Dep,5248 Mire Hwy, Duson, 7052, LA
+Montegut Fire Dept District ,1105 Highway 55, Montegut, 7037, LA
+Montegut Fire Dep,632 Highway 665, Montegut, 7037, LA
+Montegut-Point-Aux-Chenes Fir,1105 Highway 55, Montegut, 7037, LA
+Moreauville Fire Dep,328 Main St, Moreauville, 7135, LA
+Morgan City Fire Chief's Of,1307 Victor Ii Blvd, Morgan City, 7038, LA
+Morgan City Fire Dep,1307 Victor Ii Blvd, Morgan City, 7038, LA
+Municipal Training Academ,401 City Park Ave, New Orleans, 7011, LA
+Natalbany Volunteer Fire Dep,15146 Fire Station Rd, Natalbany, 7045, LA
+New Iberia Fire Dep,225 Prairie Ave, New Iberia, 7056, LA
+New Orleans Fire Dep,1700 Moss St, New Orleans, 7011, LA
+New Orleans Fire Dep,317 Decatur St, New Orleans, 7013, LA
+New Orleans Fire Dep,701 Rosedale Dr, New Orleans, 7012, LA
+New Orleans Fire Training Aca,13400 Old Gentilly Rd, New Orleans, 7012, LA
+Nine Mile Point Volunteer Fir,1024 Oak Ave, Bridge City, 7009, LA
+Norco Area Volunteer Fire Dep,River Rd, LaPlace, 7006, LA
+Oak Grove Fire Dep,1523 Oak Grove Hwy, Creole, 7063, LA
+Oak Grove Fire Statio,589 Stanford Rd, Oak Grove, 7126, LA
+Oak Hill Fire Dep,PO Box 593, Glenmora, 7143, LA
+Oak Park Fire Statio,52 Oak Park Dr, Madisonville, 7044, LA
+Oakdale Fire Dep,115 N 10th St, Oakdale, 7146, LA
+Olla Fire Dep,US Highway 165, Olla, 7146, LA
+Opelousas Fire Chie,1357 S Union St, Opelousas, 7057, LA
+Paincourtville Volenteer Fir,6074 Highway 1, Paincourtville, 7039, LA
+Parks Fire Dept-Offic,Bridge, St Martinville, 7058, LA
+Patterson City Fire Meeting R,1306 Main St, Patterson, 7039, LA
+Patterson Fire Dep,1308 Main St, Patterson, 7039, LA
+Pearl River Fire Dep,37546 Pine Street Ext, Pearl River, 7045, LA
+Pecan Island Fire Dep,25600 W La Highway 82, Kaplan, 7054, LA
+Pierre Part Volunteer Fir,101 S Bay Rd, Pierre Part, 7033, LA
+Pine Prairie Area Fire Dep,Edwin Elliott Dr, Pine Prairie, 7057, LA
+Pine Prairie Fire Dep,Highway 13, Pine Prairie, 7057, LA
+Pine Ridge Fire Dep,354 Three Pine Church Rd, De Ridder, 7063, LA
+Pineville Fire Chie,35 Purser St, Pineville, 7136, LA
+Pineville Fire Dep,35 Purser St, Pineville, 7136, LA
+Pitkin Volunteer Fire Dep,12778 Highway 10, Pitkin, 7065, LA
+Plain Dealing Fire Dep,205 W Palmetto Ave, Plain Dealing, 7106, LA
+Plainview Community Voluntee,172 Highway 112, Elizabeth, 7063, LA
+Plainview Fire Dep,10941 Highway 112, Elizabeth, 7063, LA
+Plainview Volunteer Fire Dep,10016 Highway 112, Glenmora, 7143, LA
+Plaquemine Fire Dep,58165 Meriam St, Plaquemine, 7076, LA
+Pointe Aux Chenes Fire Dep,1105 Highway 55, Montegut, 7037, LA
+Pointe Coupee Fire Distric,8874 La Highway 418, Innis, 7074, LA
+Ponchatoula Fire Dep,201 NW Railroad Ave, Ponchatoula, 7045, LA
+Port Barre Fire Dep,514 Saizan St, Port Barre, 7057, LA
+Port Sulphur Fire Dep,123 Civic Dr, Port Sulphur, 7008, LA
+Port Sulphur Vol Fire Dep,123 Civic Dr, Port Sulphur, 7008, LA
+Prairie Volunteer Fire Dep,7209 Highway 93, Sunset, 7058, LA
+Prairieville Fire Dep,17183 Highway 929, Prairieville, 7076, LA
+R C Milling Memorial Fire St,75174 Highway 1083, Covington, 7043, LA
+Rayne City O,101 3rd St, Rayne, 7057, LA
+Reserve Central Statio,105 Firehouse Ln, Reserve, 7008, LA
+Roanoke Jefferson Davis Fir,201 W South St, Welsh, 7059, LA
+Rocky Branch Crossroad Vf,11291 Highway 143, Farmerville, 7124, LA
+Rosedale Fire Dep,Highway 77, Rosedale, 7077, LA
+Rynella-Abbeville Hwy Fire De,5105 Avery Island Rd, New Iberia, 7056, LA
+Schriever Volunteer Fire Dep,1529 W Park Ave, Schriever, 7039, LA
+Seventh District Fire Dep,13398 Roddy Rd, Gonzales, 7073, LA
+Shreveport Fire Chie,801 Crockett St, Shreveport, 7110, LA
+Shreveport Fire Departmen,801 Crockett St, Shreveport, 7110, LA
+Sibley Fire Dep,117 SE 4th Ave, Sibley, 7107, LA
+Simmesport Fire Dep,388 Mission Dr, Simmesport, 7136, LA
+Singer Volunteer Fire Dep,9080 Highway 27, Singer, 7066, LA
+Sorrento Fire Dep,8096 Main St, Sorrento, 7077, LA
+Southeast La Search & Rescu,510 E Boston St, Covington, 7043, LA
+Spearsville Fire Dep,2456 Highway 3121, Spearsville, 7127, LA
+Spencer-West Sterlington Fir,Highway 143, Spencer, 7128, LA
+Spring Creek Community Vf,757 Highway 113, Glenmora, 7143, LA
+St Amant Fire Dep,PO Box 45, St Amant, 7077, LA
+St John Volunteer Fire Dep,2072 Highway 1, Thibodaux, 7030, LA
+St John Westside Voluntee,173 E 3rd St, Edgard, 7004, LA
+St John's Volunteer Fire Dep,Tiger Dr, Thibodaux, 7030, LA
+St Landry Parish Fire Distric,887 Highway 749, Opelousas, 7057, LA
+St Martinville Fire Dep,230 Washington St, St Martinville, 7058, LA
+Sun Tenth Dist Volunteer Fir,28666 Highway 16, Sun, 7046, LA
+Sunset City Fire Dep,872 Napoleon Ave, Sunset, 7058, LA
+Thibodaux Fire Dep,800 Parish Rd, Thibodaux, 7030, LA
+Three Pine Fire Dep,354 Three Pine Church Rd, De Ridder, 7063, LA
+Tullos Fire Dep,125 Main St, Tullos, 7147, LA
+Tullos Volunteer Fire Dep,10187 S Main St, Tullos, 7147, LA
+Turkey Creek Fire Dep,1084 Cedar Ln, Ville Platte, 7058, LA
+Union Volunteer Fire Dep,9793 La 44, Convent, 7072, LA
+Urania Fire Dep,100 E Hardtner Dr, Urania, 7148, LA
+Vacherie Fire Dep,2433 Highway 18, Vacherie, 7009, LA
+Vacherie Gheens Volunteer Fir,N Leon Dr, Lockport, 7037, LA
+Village East Fire C,Industrial Park & Indstrl Rd, Houma, 7036, LA
+Ville Platte Fire Dep,310 W Magnolia St, Ville Platte, 7058, LA
+Vinton Fire Volunteer,1201 Horridge St, Vinton, 7066, LA
+Ward 2 Fire Protection Dist ,Galley Rd, Hayes, 7064, LA
+Ward 2 Fire Protection Dis,9890 Highway 34, Eros, 7123, LA
+Ward 4 Fire Dep,261 Highway 505, Jonesboro, 7125, LA
+Ward 5 Fire Dis,1084 Cedar Ln, Ville Platte, 7058, LA
+Ward 5 Fire Protection Dis,Courthouse, Turkey Creek, 7058, LA
+Ward 8 Fire Protection Dis,4444 Main St, Collinston, 7122, LA
+Washington Parish Fire Dis,30247 Highway 430, Franklinton, 7043, LA
+Washington Parish Fire Protec,43139 C E Stafford Rd, Franklinton, 7043, LA
+Welsh Fire Dep,201 W South St, Welsh, 7059, LA
+Westwego City Fire Chief',677 Avenue H, Westwego, 7009, LA
+Westwego Fire Dep,677 Avenue H, Westwego, 7009, LA
+Wilmer Fire Dep,22115 Highway 10, Kentwood, 7044, LA
+Wkb Volunteer Fire Dep,4040 Highway 90 W, Avondale, 7009, LA
+Woodlawn Fire Dep,7163 Highway 39 #202, Braithwaite, 7004, LA
